@@ -23,7 +23,7 @@ define("_REMEMBERME", FALSE); // Set to TRUE to enable the "remember me" feature
 define("_MAXSIZE", 83886080); // Maximum file upload size - in bytes.
 define("_PERMISSION", 0644); // Permission for uploaded files.
 define("_DISABLELOGIN", TRUE); // Set to TRUE if you want to disable password protection.
-define("_FILEBLACKLIST", "ft2.php a.phtml"); // Specific files that will not be shown.
+define("_FILEBLACKLIST", "ft2.php a.phtml dmm.m3u8"); // Specific files that will not be shown.
 define("_FOLDERBLACKLIST", ""); // Specifies folders that will not be shown. No starting or trailing slashes!
 define("_FILETYPEBLACKLIST", "phtml php3 php4 php5 cgi"); // File types that are not allowed for upload.
 define("_FILETYPEWHITELIST", ""); // Add file types here to *only* allow those types to be uploaded.
