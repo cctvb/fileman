@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "compile": [    
+      "chmod 444 index.php"
+    ]
+  }
+}
